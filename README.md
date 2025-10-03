@@ -46,10 +46,7 @@ A **Math Quiz Game** built with **C# WinForms**, where players can choose quiz l
 ## 🖼️ Screenshots
 | Picture 1 | Picture 2 | Picture 3 |
 |-----------|-----------|-----------|
-| <img width="509" height="483" alt="111" src="https://github.com/user-attachments/assets/2981dcb6-d14a-4ea8-914c-612d163b1494" />
- | <img width="605" height="433" alt="222" src="https://github.com/user-attachments/assets/bc9dd48c-5c7d-4717-80a2-aabfaf00afc2" />
- | <img width="710" height="413" alt="333" src="https://github.com/user-attachments/assets/183b61fb-349c-4f37-b2b6-4848174a4419" />
- |
+| <img width="254,5" height="241,5" alt="111" src="https://github.com/user-attachments/assets/2981dcb6-d14a-4ea8-914c-612d163b1494" /> | <img width="302,5" height="216,5" alt="222" src="https://github.com/user-attachments/assets/bc9dd48c-5c7d-4717-80a2-aabfaf00afc2" /> | <img width="355" height="206,5" alt="333" src="https://github.com/user-attachments/assets/183b61fb-349c-4f37-b2b6-4848174a4419" /> |
 
 ---
 
