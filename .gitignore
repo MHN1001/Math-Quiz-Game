@@ -1,0 +1,62 @@
+﻿# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache and settings
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Other generated files
+*.dll
+*.exe
+*.appx
+*.appxupload
+*.pdb
+*.cache
+*.log
+*.diff
+*.orig
+*.tmp
+
+# Publish output
+publish/
+out/
+
+# Rider / JetBrains IDEs
+.idea/
+*.iml
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Auto-generated files
+*.dbmdl
+*.bak
+*.Backup
+*.mdf
+*.ldf
+
+# Configuration files (optional - keep if you need them in repo)
+appsettings.*.json
+secrets.json
